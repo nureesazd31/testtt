@@ -12,7 +12,7 @@
 <div class="col-lg-8">
     <div class="card card-primary card-outline">
         <div class="card-header">
-            <h5 class="m-0">Dashboard</h5>
+            <h5 class="m-0">DASHHHHHHHHHHHBOARD</h5>
         </div>
         <div class="card-body">
             <h6 class="card-title">Welcome to this beautiful admin panel.</h6>
